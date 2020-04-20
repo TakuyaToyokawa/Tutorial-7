@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TakuyaToyokawa/Tutorial-7.git.git"
+    "url": "git+https://github.com/TakuyaToyokawa/tutorial4.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TakuyaToyokawa/Tutorial-7.git/issues"
+    "url": "https://github.com/TakuyaToyokawa/tutorial4/issues"
   },
-  "homepage": "https://github.com/TakuyaToyokawa/Tutorial-7.git#readme",
+  "homepage": "https://github.com/TakuyaToyokawa/tutorial4#readme",
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
     "next": "^9.3.3",
